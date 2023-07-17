@@ -1,0 +1,29 @@
+p {
+  color: red;
+}
+
+.hate {
+  color: blue;
+  text-decoration: none;
+}
+
+a {
+  border: 3px solid black;
+}
+
+.home {
+  border: none;
+}
+
+div>p:hover {
+  text-decoration: underline;
+}
+main>div:nth-child(3n) {
+  border: 3px solid green;
+}
+main {
+  text-align: center;
+}
+header {
+  text-align: center;
+}
